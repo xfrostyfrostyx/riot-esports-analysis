@@ -89,5 +89,6 @@ Data Analyst (Esports) | QUT Graduate | Riot API Enthusiast
 ## 📚 Additional Info
 
 - [📄 Story.pdf](docs/Story.pdf) — Full breakdown of my analysis thought process and strategic insights
+  https://public.tableau.com/app/profile/ka.wai.gary.lai6628/viz/LeagueofLegendsdatainsight/Story1
 - This repo is part of my personal data analyst portfolio. Feedback and questions welcome!
 
