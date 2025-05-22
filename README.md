@@ -48,18 +48,7 @@ This project demonstrates how I use Python, the Riot Games API, and Google Sheet
 
 ## 📁 Repository Structure
 
-riot-esports-analysis/
-├── data/
-│   └── Summary_Tournament_Data.csv        # Example of cleaned player-level tournament data
-│
-├── notebooks/
-│   └── riot_data_extraction_cleaning.py   # Full script for Riot API data extraction and processing
-│
-├── docs/
-│   └── Story.pdf                          # Written walkthrough of scouting analysis and insights
-│
-├── requirements.txt                       # Python dependencies for running the script
-└── README.md                              # Project overview, workflow, and insights
+```text riot-esports-analysis/ ├── data/ │ └── Summary_Tournament_Data.csv # Example of cleaned player-level tournament data │ ├── notebooks/ │ └── riot_data_extraction_cleaning.py # Full script for Riot API data extraction and processing │ ├── docs/ │ └── Story.pdf # Written walkthrough of scouting analysis and insights │ ├── requirements.txt # Python dependencies for running the script └── README.md # Project overview, workflow, and insights ```
 
 ---
 
