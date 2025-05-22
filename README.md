@@ -59,7 +59,7 @@ riot-esports-analysis/
 │   └── Story.pdf                          # Written walkthrough of scouting analysis and insights
 │
 ├── requirements.txt                       # Python dependencies for running the script
-├── README.md                              # Project overview, workflow, and insights
+└── README.md                              # Project overview, workflow, and insights
 
 ---
 
